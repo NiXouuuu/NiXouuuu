@@ -1,7 +1,6 @@
 # Hi, I'm NiXou 👋
 
 **Software Developer | Prompt Engineer**  
-🇫🇷 France | @XWorksFrance
 
 ---
 
@@ -22,18 +21,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-- **Private repos**: Active contributor (most code in private projects)
-- **Contributions last 12 months**: 148+
-- **Always learning:** Tech, scripting, and AI prompting
-
----
-
 ### 🔗 Contact & Social
 
-- [Discord: NiXou#XXXX](#) *(DM open for collab/requests)*
-- [XWorksFrance](https://github.com/XWorksFrance)
+- [Discord: its.nixou] *(DM open for collab/requests)*
 - Based in France
 
 ---
