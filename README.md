@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm NiXou 👋
 
-<!--
-**NiXouuuu/NiXouuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Prompt Engineer**  
+🇫🇷 France | @XWorksFrance
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ About me
+
+- **Tech stack**: Lua, React, FiveM, JS, TypeScript
+- **Focus**: Script & app development for FiveM, web apps, automation
+- **Specialities**: Efficient, innovative solutions, UI/UX & performance
+- **Roles**: Developer & Prompt Engineer (AI prompt design & automation)
+
+---
+
+### 🚀 Current Work
+
+- Building and maintaining private scripts for FiveM communities
+- Web development projects (React/Next.js, REST API, UI/UX)
+- Research & testing on AI-assisted coding and automation workflows
+
+---
+
+### 📈 GitHub Stats
+
+- **Private repos**: Active contributor (most code in private projects)
+- **Contributions last 12 months**: 148+
+- **Always learning:** Tech, scripting, and AI prompting
+
+---
+
+### 🔗 Contact & Social
+
+- [Discord: NiXou#XXXX](#) *(DM open for collab/requests)*
+- [XWorksFrance](https://github.com/XWorksFrance)
+- Based in France
+
+---
+
+<!-- Badges or achievements can go here -->
+<p>
+  <img src="https://img.shields.io/badge/Lua-00599C?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/FiveM-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Prompting-blueviolet?style=for-the-badge"/>
+</p>
+
+---
+
+> *“Delivering efficient & innovative code for real needs, not for show.”*
