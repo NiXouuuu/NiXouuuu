@@ -28,7 +28,6 @@
 
 ---
 
-<!-- Badges or achievements can go here -->
 <p>
   <img src="https://img.shields.io/badge/Lua-00599C?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
