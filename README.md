@@ -40,11 +40,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiXouuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px" alt="NiXou Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiXouuuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px" alt="NiXou Languages" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiXouuuu&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" />
 
 ---
 
