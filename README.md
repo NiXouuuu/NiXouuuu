@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiXouuuu&theme=dracula&bg_color=0D1117&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiXouuuu&theme=rogue&bg_color=0D1117&hide_border=true" width="100%" />
 
 ---
 
