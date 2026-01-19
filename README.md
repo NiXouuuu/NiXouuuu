@@ -41,7 +41,7 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39D353/NiXouuuu" alt="GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiXouuuu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&hide_border=true" />
 </p>
 
 ---
