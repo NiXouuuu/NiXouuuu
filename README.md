@@ -38,12 +38,11 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contributions
 
-> I keep my GitHub profile clean and rely on the **native GitHub contribution graph**  
-> to reflect real, continuous development activity.
-
-👉 See full activity directly on my profile.
+<p align="center">
+  <img src="https://ghchart.rshah.org/0D8ABC/NiXouuuu" alt="GitHub contribution graph" />
+</p>
 
 ---
 
@@ -62,8 +61,8 @@
 <td valign="top" width="50%">
 
 ### ⚡ Info
-- 🌍 France
-- 💬 Lua, React, backend systems
+- 🌍 France  
+- 💬 Lua, React, backend systems  
 - 📫 Discord: **its.nixou**
 
 </td>
