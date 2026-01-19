@@ -41,7 +41,7 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0D8ABC/NiXouuuu" alt="GitHub contribution graph" />
+  <img src="https://ghchart.rshah.org/39D353/NiXouuuu" alt="GitHub contribution graph" />
 </p>
 
 ---
