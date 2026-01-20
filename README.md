@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm NiXou 👋
+# 👋 Hi, I'm NiXou
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=61DAFB&center=true&vCenter=true&width=460&lines=Software+Developer;FiveM+Scripting+Specialist;Fullstack+Web+Developer;Automation+%26+AI+Workflows" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=61DAFB&center=true&vCenter=true&width=480&lines=Fullstack+Developer;FiveM+Scripting+and+Game+Systems;React+%2F+Next.js;AI+and+Automation" />
 </a>
 
 <p>
-  <em>Building reliable systems, clean code, and tools that scale.</em>
+  <em>Clean code. Reliable systems. Real-world performance.</em>
 </p>
 
 <p>
@@ -31,40 +31,63 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FiveM-Scripting-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Automation-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FiveM-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_%26_Automation-blueviolet?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiXouuuu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&hide_border=true" />
-</p>
+<div align="center">
+
+  <!-- Détails généraux + contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiXouuuu&theme=github_dark" alt="GitHub profile details" />
+  <br/><br/>
+
+  <!-- Contributions par jour / heure -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiXouuuu&theme=github_dark" alt="GitHub contributions by day and time" />
+
+</div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🎯 Core Focus
-- **FiveM** — Private scripts, ESX/QB systems, performance & security
-- **Web** — Fullstack apps (React, Next.js, Node.js)
-- **Automation** — AI-assisted workflows & tooling
+### 🎯 What I Build
+- Private and optimized **FiveM** systems  
+- Fullstack dashboards (React / Next.js / Node.js)  
+- Tools and services for GTA RP servers  
+- Clean, maintainable backend logic  
 
 </td>
 <td valign="top" width="50%">
 
-### ⚡ Info
-- 🌍 France  
-- 💬 Lua, React, backend systems  
+### ⚡ Quick Facts
+- 🌍 Based in France  
+- 🧩 Working on several web & FiveM projects  
+- 💬 Lua, React, ESX/QB systems  
 - 📫 Discord: **its.nixou**
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📚 Current Work
+
+- Advanced FiveM scripts (jobs, systems, UI, performance)
+- Web platforms and dashboards (analytics, SaaS tools)
+- AI-assisted workflows for development and automation
+
+---
+
+## 🧩 Simple mindset
+
+> Build useful things, keep it clear, and improve over time.
