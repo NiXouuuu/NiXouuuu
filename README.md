@@ -68,7 +68,6 @@ Currently shipping:
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=2088FF)
-![OVH](https://img.shields.io/badge/OVH-1a1a1a?style=flat-square&logo=ovh&logoColor=123F6D)
 ![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
 </td>
