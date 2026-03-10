@@ -1,0 +1,22 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0d2040"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- Wave bottom -->
+  <path d="M0,140 C150,180 300,100 450,140 C600,180 750,100 900,140 C1050,180 1150,130 1200,140 L1200,200 L0,200 Z" fill="#0d1117" opacity="0.6"/>
+  <path d="M0,160 C200,130 400,190 600,160 C800,130 1000,190 1200,160 L1200,200 L0,200 Z" fill="#0d1117" opacity="0.8"/>
+
+  <!-- Title -->
+  <text x="600" y="90" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Hugo · NiXou</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="128" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="400" fill="#4D9EFF" text-anchor="middle" letter-spacing="0.5">Co-Founder @ KodiCore · CTO &amp; Fullstack Engineer</text>
+</svg>
