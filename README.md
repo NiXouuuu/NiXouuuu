@@ -102,7 +102,6 @@ Currently shipping:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiXouuuu&theme=github-compact&bg_color=0d1117&color=4D9EFF&line=4D9EFF&point=ffffff&area=true&area_color=0d2040&hide_border=true" width="100%" />
 
 </div>
 
